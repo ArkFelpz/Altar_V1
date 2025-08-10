@@ -1,0 +1,8 @@
+name: Altar
+api: 3.0.0
+author: ArkFelpz
+version: 1.0
+main: Altar\Inicio
+commands:
+ altar:
+  description: §aAltar.
